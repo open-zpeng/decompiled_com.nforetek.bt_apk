@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phoneTypeList>
+	<phoneType Type="H" TypeName="家中電話"/>
+    <phoneType Type="O" TypeName="公司電話"/>
+	<phoneType Type="C" TypeName="手機電話"/>
+	<phoneType Type="CAR" TypeName="車用電話"/>
+</phoneTypeList>
+

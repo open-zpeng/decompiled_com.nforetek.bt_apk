@@ -1,0 +1,45 @@
+package com.nforetek.util.normal;
+/* loaded from: classes.dex */
+public class ContactsDef {
+    public static final int ACCESS_COMBINE_CALLLOG = 6;
+    public static final int ACCESS_DIALED = 5;
+    public static final int ACCESS_MISSED = 3;
+    public static final int ACCESS_NULL = 0;
+    public static final int ACCESS_PHONE = 2;
+    public static final int ACCESS_RECEIVED = 4;
+    public static final int ACCESS_SIM = 1;
+    public static final int CONTACT_COMBINE_CALLLOG = 8;
+    public static final int CONTACT_DIALED = 7;
+    public static final int CONTACT_FAVORITE = 4;
+    public static final int CONTACT_MISSED = 5;
+    public static final int CONTACT_NULL = 0;
+    public static final int CONTACT_PHONE = 2;
+    public static final int CONTACT_RECEIVED = 6;
+    public static final int CONTACT_SIM = 1;
+    public static final int CONTACT_SPEEDDIAL = 3;
+    public static final int ENCODE_TYPE_BIG5 = 1;
+    public static final int ENCODE_TYPE_EUC_JP = 2;
+    public static final int ENCODE_TYPE_EUC_KR = 3;
+    public static final int ENCODE_TYPE_GB2312 = 4;
+    public static final int ENCODE_TYPE_ISO_2022_JP = 5;
+    public static final int ENCODE_TYPE_ISO_8859_1 = 6;
+    public static final int ENCODE_TYPE_ISO_8859_2 = 7;
+    public static final int ENCODE_TYPE_ISO_8859_3 = 8;
+    public static final int ENCODE_TYPE_ISO_8859_4 = 9;
+    public static final int ENCODE_TYPE_ISO_8859_5 = 10;
+    public static final int ENCODE_TYPE_ISO_8859_6 = 11;
+    public static final int ENCODE_TYPE_ISO_8859_7 = 12;
+    public static final int ENCODE_TYPE_ISO_8859_8 = 13;
+    public static final int ENCODE_TYPE_KOI8_R = 14;
+    public static final int ENCODE_TYPE_SHIFT_JIS = 15;
+    public static final int ENCODE_TYPE_UTF_8 = 16;
+    public static final int NUMBER_TYPE_CELL = 7;
+    public static final int NUMBER_TYPE_FAX = 5;
+    public static final int NUMBER_TYPE_HOME = 3;
+    public static final int NUMBER_TYPE_MSG = 6;
+    public static final int NUMBER_TYPE_NULL = 0;
+    public static final int NUMBER_TYPE_PAGER = 8;
+    public static final int NUMBER_TYPE_PREF = 1;
+    public static final int NUMBER_TYPE_VOICE = 4;
+    public static final int NUMBER_TYPE_WORK = 2;
+}
